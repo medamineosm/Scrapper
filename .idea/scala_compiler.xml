@@ -3,6 +3,6 @@
   <component name="ScalaCompilerConfiguration">
     <option name="dynamics" value="true" />
     <option name="postfixOps" value="true" />
-    <profile name="SBT 1" modules="scrapperremote,scrapper" />
+    <profile name="SBT 1" modules="scrapper,scrapperremote" />
   </component>
 </project>
